@@ -101,6 +101,12 @@ Aplicación móvil que apoya el monitoreo del deterioro cognitivo mediante cuest
 Instituto Tecnológico de Estudios Superiores de Ecatepec (ITEE) — *Egreso 2021*
 
 ---
+## 💼 Empresa
+### **Code Connect** *(2025 – Actualidad)*
+💼 **LinkedIn:** [Perfil de la empresa](https://www.linkedin.com/company/codeconnect-fabricasdeoftware/posts/?feedView=all)
+
+
+---
 
 ## 📫 Contacto
 
