@@ -98,7 +98,7 @@ Aplicación móvil que apoya el monitoreo del deterioro cognitivo mediante cuest
 ## 📚 Educación
 
 **Ingeniería en Sistemas Computacionales**
-Instituto Tecnológico de Estudios Superiores de Ecatepec (ITEE) — *Egreso 2021*
+Instituto Tecnológico de Estudios Superiores de Ecatepec (TESE) — *Egreso 2021*
 
 ---
 ## 💼 Empresa
