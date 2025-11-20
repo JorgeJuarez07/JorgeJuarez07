@@ -72,7 +72,7 @@ Aplicación móvil que apoya el monitoreo del deterioro cognitivo mediante cuest
 
 ## 🧩 Experiencia profesional
 
-### 👨‍💼 **Líder de Proyecto – Code Connect** *(2024 – Actualidad)*
+### 👨‍💼 **Líder de Proyecto – Hospital los angeles** *(2025 – Actualidad)*
 
 * Gestión de equipos de desarrollo.
 * Diseño e implementación de APIs con Django.
