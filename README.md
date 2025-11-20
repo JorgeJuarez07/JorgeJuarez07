@@ -105,7 +105,7 @@ Instituto Tecnológico de Estudios Superiores de Ecatepec (ITEE) — *Egreso 202
 ## 📫 Contacto
 
 📧 **Correo:** [jorgealbertobautistajuarez@gmail.com](mailto:jorgealbertobautistajuarez@gmail.com)
-🌎 **Ubicación:** Estado de México, México
+🌎 **Ubicación:**  Coacalco de Berriozábal, Estado de México, México
 💼 **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/jorge-alberto-bautista-juarez-6b286b350)
 🐙 **GitHub:** [JorgeJuarez07](https://github.com/JorgeJuarez07)
 
